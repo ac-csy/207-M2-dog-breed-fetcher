@@ -49,7 +49,7 @@ public class DogApiBreedFetcher implements BreedFetcher {
                     subBreeds.add(breeds.get(i).toString());
                 }
 
-                System.out.println(subBreeds);
+                // System.out.println(subBreeds);
                 return subBreeds;
 
             }
